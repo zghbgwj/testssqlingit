@@ -4,3 +4,5 @@ Creating a new branch is quick and simple
 分支管理策略
 
 储藏
+
+在修复bug
